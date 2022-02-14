@@ -1,2 +1,2 @@
 # Basic-Blockchain
-Basic functiona blockchain written in flask.
+Basic functional blockchain written in flask.
